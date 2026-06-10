@@ -1,0 +1,165 @@
+{ 
+
+  "track order": "You can easily track your order by logging into your account and going to 'Order History'. There you'll see a 'Track Order' button next to each purchase. We also send a tracking link via email and SMS once your order ships just click it to see real time updates.", 
+
+  "payment methods": "We accept a wide range of payment options to make checkout easy: all major credit/debit cards (Visa, Mastercard, Amex, RuPay), UPI apps like Google Pay and PhonePe, net banking, PayPal, Cash on Delivery (where available), as well as our own gift cards and store credit.", 
+
+  "delivery time": "Delivery speed depends on what you choose at checkout. Standard delivery usually takes 3 to 7 business days. Express delivery is faster at 1 to 3 business days. And if you live in select major cities, we even offer same day delivery for orders placed before noon.", 
+
+  "change address": "You can change your shipping address as long as your order hasn't been shipped yet. Just go to 'My Orders', click 'Modify Order', and update the address. Once the order is on its way, we cannot change it so please double check before confirming.", 
+
+  "refund": "Once your return is approved and we receive the item back (if applicable), we process refunds within 5 to 7 business days. The money goes back to your original payment method credit card, UPI, or bank account. You'll get an email confirmation when it's done.", 
+
+  "order not received": "If your order shows 'delivered' but you can't find it, first check with family members, neighbours, or any secure delivery spot around your home (porch, mailbox, reception desk). Still missing? Contact our support within 24 hours, and we'll investigate right away.", 
+
+  "cancel order": "You can cancel an order anytime before it is shipped. Simply go to 'My Orders' and click 'Cancel Order'. If you already paid, the refund will happen automatically. Once shipped, cancellation isn't possible you can refuse delivery or return the item after receiving it.", 
+
+  "create account": "Creating an account is quick and free. Click 'Sign Up', enter your email or mobile number, set a password, and you're done. You can also sign up with Google, Facebook, or Apple. An account lets you see order history, save addresses, and manage preferences easily.", 
+
+  "reset password": "Forgot your password? No problem. On the login screen, click 'Forgot Password', enter your registered email address, and we'll send you a reset link or OTP. Follow the instructions to create a new password. Make sure it's strong and unique.", 
+
+  "return policy": "Most items can be returned within 15 days of delivery, as long as they are unused, unwashed, and still have original tags and packaging. Some products like innerwear or perishables are non returnable check the product page for details.", 
+
+  "damaged product": "Oh no!, we're sorry you received a damaged product. Please report it within 48 hours of delivery. Go to 'My Orders', select the item, choose 'Damaged/Defective', and upload clear photos. We'll arrange a free pickup and send you a replacement or full refund.", 
+
+  "exchange": "If you need a different size or color, we offer free exchanges subject to stock availability. Start an exchange from 'My Orders', send the original item back, and we'll ship the new one as soon as we receive it. No extra charges unless the price differs.", 
+
+  "coupon": "Got a coupon code? Enter it in the 'Promo Code' box during checkout and click 'Apply'. The discount will be reflected immediately in your order total. Remember, only one coupon can be used per order, unless a special promotion says otherwise.", 
+
+  "payment failed": "Sometimes payments fail due to low balance, incorrect CVV, bank restrictions, or technical glitches. Try using another card or payment method. If your account was charged but the order failed, the amount will be auto refunded within 5 to 7 business days.", 
+
+  "double charge": "If you see two charges for the same order, don't worry it's usually a temporary authorization hold. One of them will drop off within 3 to 5 days. If both charges settle permanently, contact us with your order ID and bank statement, and we'll refund the extra one quickly.", 
+
+  "update account": "To change your email address or phone number, log in and go to 'Account Settings' > 'Personal Information'. Click 'Edit' next to the field you want to update, then verify the change with an OTP sent to your new contact. Easy and secure.", 
+
+  "gift wrapping": "Yes, we offer gift wrapping for an extra fee (shown at checkout). You can also add a personal message. The item will come in a premium box with ribbon. Just keep in mind that gift wrapping may add one extra day to our normal processing time.", 
+
+  "shipping charges": "Shipping costs depend on your order total and chosen speed. Standard shipping is free for orders above a certain threshold (usually $50). Below that, a small flat fee applies. Express shipping costs extra the exact amount is shown at checkout.", 
+
+  "international shipping": "We do ship to many countries outside the US, including Canada, UK, Australia, and more. Delivery times and costs vary by destination. Please note that any customs duties or import taxes are the responsibility of the customer we recommend checking your local rules.", 
+
+  "return status": "Want to know where your return or refund stands? Log in and go to 'My Orders' > 'Return/Refund Status'. You'll see the step by step progress: request received, pickup scheduled, item arrived at warehouse, refund initiated, and refund completed.", 
+
+  "warranty": "Warranty coverage depends on the product type. Most electronics come with a 1 year manufacturer warranty. Apparel and footwear have 30 to 90 days against manufacturing defects. You can also buy extended warranties on eligible items. Contact us to start a warranty claim.", 
+
+  "unsubscribe": "Tired of promotional emails? Scroll to the bottom of any marketing email from us and click 'Unsubscribe'. You can also log into your account, go to 'Notification Preferences', and turn off marketing emails. You'll still receive important order updates.", 
+
+  "discount rules": "Typically, you can only use one coupon code per order. However, you can combine that coupon with store credit, gift cards, or loyalty points. Some special sales (like flash deals) may have different rules always read the offer details.", 
+
+  "no confirmation email": "Didn't get your order confirmation? First, check your spam or junk folder. Still nothing? Log into your account (if you have one) and view your order history you can resend the confirmation from there. Guest users can use the 'Resend Confirmation' link with their order number and email.", 
+
+  "seller complaint": "If you bought from a third party seller on our marketplace and have an issue (wrong item, poor quality, etc.), go to your order and click 'Report Seller Issue'. Provide details and any evidence. We will investigate and mediate to reach a fair resolution.", 
+
+  "refuse delivery": "If you refuse to accept a package when the delivery person arrives, it will be sent back to us. Once we receive it, we will process a refund (shipping charges may be deducted). For Cash on Delivery orders, no refund is needed because you didn't pay.", 
+
+  "wishlist": "See something you like but not ready to buy? Click the heart icon or 'Add to Wishlist' on the product page. You must be logged in to save items. Your wishlist is private, and we'll notify you when an item goes on sale or comes back in stock.", 
+
+  "out of stock": "If an item is out of stock, look for the 'Notify Me When Available' button. Enter your email address, and we'll send you an alert as soon as it's back. You cannot order it until then, unless the product page says 'Pre order' or 'Backorder available'.", 
+
+  "price match": "Found the exact same item cheaper on a competitor's site? We'll match the price. Contact us within 7 days of your purchase with a link to the competitor's listing. The item must be identical and in stock. Some exclusions apply (clearance, flash sales).", 
+
+  "delete account": "To permanently delete your account, go to 'Account Settings' > 'Privacy & Security' > 'Delete Account'. You'll need to confirm with an OTP. This action is irreversible all order history, wishlists, and loyalty points will be lost. Please be sure.", 
+
+  "late delivery": "If your order is taking longer than the estimated delivery date, first check tracking for any delays. If it's more than 2 days late, contact our support team. For paid express shipping that missed its guarantee, we may refund the shipping fee.", 
+
+  "digital products": "Digital products (eBooks, software, etc.) are delivered instantly after payment. You can download them from 'My Account' > 'Digital Library'. Because they are digital, returns are not accepted unless the file is corrupted in that case, we'll provide a fresh download link.", 
+
+  "store credit": "Have store credit from a previous return or promotion? During checkout, look for the 'Use Store Credit' option. Enter how much you want to apply. You can pay the remaining balance with another method. Store credit never expires unless stated.", 
+
+  "loyalty points": "You earn loyalty points on every purchase typically 5 points per $1 spent. 100 points = $1 off. You can redeem them at checkout under 'Use Loyalty Points'. Bonus points are given for writing reviews, birthdays, and referrals. Points expire after 12 months of inactivity.", 
+
+  "pending charge": "See a pending charge on your card even though the order failed? That's just an authorization hold the bank reserved the amount temporarily. It will disappear on its own within 3 to 7 business days. If it becomes a full charge, contact us and we'll void it.", 
+
+  "schedule delivery": "For select locations and couriers, you can choose a specific delivery date and even a time window (morning, afternoon, evening). Look for 'Schedule Delivery' during checkout. This option is available for orders placed at least 2 days in advance.", 
+
+  "contact support": "Need help? Our support team is available 24/7 via live chat on our website or app. You can also email us at support@ecomsupport.com (response within 4 hours) or call +1-800-555-1234 (9 AM to 9 PM EST). Have your order number ready for faster service.", 
+
+  "missing item": "Opened your package and something is missing? First, double check inside all packaging sometimes small items hide. If it's truly missing, report it within 48 hours of delivery. Please send a photo of the package and packing slip. We'll investigate and send the missing item or issue a partial refund.", 
+
+  "return gift": "If you received an item as a gift and want to return it, you can but the refund will be in the form of store credit (gift card) rather than cash. You'll need the original order number or the purchaser's email address. Without that, we cannot locate the order.", 
+
+  "review product": "Help other shoppers by leaving a product review! After your item is delivered, you'll get an email invitation. Or log in, go to 'Order History', find the product, and click 'Write a Review'. You can rate 1 to 5 stars and add text or photos. Verified purchases are highlighted.", 
+
+  "wrong address": "Realized you typed the wrong shipping address? Act fast. If the order is still 'Processing', you can modify it from 'My Orders' and correct the address. If it's already 'Shipped', we cannot change it you may need to contact the courier directly with your tracking number.", 
+
+  "discount eligibility": "We offer special discounts for students (verify via Student Beans for 10% off) and military/first responders (15% off via ID.me). These apply to full price items only and cannot be combined with other promo codes. Check our 'Discounts' page for details.", 
+
+  "cod": "Cash on Delivery (COD) means you pay in cash when the package arrives. A small fee (usually $2) applies. COD is only available for orders under $200 and in select pin codes. Please have exact change ready delivery agents may not carry change.", 
+
+  "invoice": "Need an invoice for your order? After delivery, log in and go to 'Order History'. Click 'Download Invoice'. If you need a tax invoice with GST (for business buyers), make sure you added your GST number at checkout it cannot be added later.", 
+
+  "website issue": "Having trouble with our website or app? Try clearing your browser cache and cookies, or update the app to the latest version. Check your internet connection and disable any VPN or ad blocker. If the problem continues, try a different browser or device. Still stuck? Contact support with a screenshot.", 
+
+  "bulk order": "Looking to buy in large quantities for your business? We have a dedicated B2B portal with wholesale pricing, volume discounts (starting at 10+ units), and net 30 payment terms. Contact our B2B team at b2b@ecomsupport.com or call 1-800-555-5678.", 
+
+  "counterfeit": "We have a zero tolerance policy for counterfeit products. All items sold are 100% authentic. If you suspect a fake, please report it immediately with photos and batch numbers. We will investigate and, if confirmed, give you a full refund plus a $50 store credit as an apology.", 
+
+  "subscription": "Love a product and want it regularly? Subscribe on the product page choose weekly, monthly, or quarterly delivery. You'll be automatically charged at each interval. You can pause, skip, or cancel anytime from 'Subscriptions' in your account.", 
+
+  "coupon not working": "Coupon not applying? Common reasons: it's expired, you haven't met the minimum purchase, it excludes certain brands or products, or it's already been used. Double check the terms. If it still doesn't work, contact support with the code we can manually apply it if valid.", 
+
+  "wrong item": "We sent you the wrong item? We're really sorry. Do not use it. Go to 'My Orders', select 'Return/Refund', and choose 'Wrong Item Received'. We'll arrange a free pickup and send you the correct item as soon as possible. If the correct item is out of stock, we'll offer a refund or store credit.", 
+
+  "late return": "Past the 15 day return window? In most cases we cannot accept returns after 15 days. However, for defective products under warranty, we may still help. For non defective items up to 30 days, we might accept a return with a 20% restocking fee contact support to ask.", 
+
+  "bug report": "Found a technical glitch or security issue? Please report it to security@ecomsupport.com. Do not share vulnerabilities publicly. For general bugs (like broken links or layout issues), use the 'Report a Problem' link in the website footer or app settings.", 
+
+  "sustainability": "We care about the planet. All our shipments are carbon neutral we offset emissions through reforestation and renewable energy projects. You can also add an extra $1 at checkout to support additional sustainability initiatives. Plus, we use minimal plastic in our packaging.", 
+
+  "price drop": "Bought something and then saw the price drop? We offer 7 day price protection. If the price goes down within 7 days of your purchase, contact us with your order ID and the current lower price. We'll refund the difference as store credit (not cash).", 
+
+  "stock status": "On every product page, you'll see a clear label: 'In Stock', 'Low Stock' (only a few left. order soon), or 'Out of Stock'. For out of stock items, use 'Notify Me' to get an email when they're back. Some products also show an expected restock date.", 
+
+  "shipping difference": "Standard shipping is our most affordable option, taking 3 to 7 business days with no guaranteed date. Express shipping costs a bit more but delivers in 1 to 3 business days and includes a delivery guarantee if it's late, we refund the shipping fee.", 
+
+  "complaint escalation": "If you're unhappy with how our support team handled your issue, you can ask to speak with a supervisor via live chat or email. You can also file a formal complaint at complaints@ecomsupport.com. Please include your case ID. We aim to resolve complaints within 2 business days.", 
+
+  "change payment": "Once an order is placed, you cannot change the payment method. If you need to use a different card or option, cancel the order (as long as it hasn't shipped) and place a new one with your preferred payment method. Any refund from the cancelled order will be processed automatically.", 
+
+  "lost package": "If your package stops moving and there are no tracking updates for 7 days (standard) or 3 days (express), it may be lost. Contact our support team. We'll file a claim with the courier and either reship the items (if available) or issue a full refund including shipping.", 
+
+  "mobile app": "Yes, we have a mobile app! It's available for free on the Apple App Store and Google Play Store. Search 'EcomSupport'. The app gives you exclusive deals, one tap reordering, barcode scanning for price checks, and push notifications for order updates.", 
+
+  "remove card": "To remove a saved credit or debit card from your account, go to 'Account Settings' > 'Payment Methods'. Find the card you want to delete and click 'Remove'. You may need to re enter your password for security. Removing a card does not affect any pending orders.", 
+
+  "preorder": "Pre order items are products that haven't been released yet. If you see 'Pre order Now', you can buy them today. We'll charge you immediately, then ship on the official release date (shown on the product page). Pre orders can be cancelled for a full refund before release.", 
+
+  "refurbished": "We sell 'Certified Refurbished' items that have been tested, cleaned, and restored to good working condition. They come with a 6 month warranty and can be returned within 30 days. Open box or used items are clearly marked and are final sale unless defective.", 
+
+  "authentic product": "Every product we sell comes directly from the brand or an authorized distributor no fakes, ever. You can verify authenticity by scanning QR codes on apparel or checking serial numbers on the brand's official website. If you ever doubt, contact us.", 
+
+  "customs duty": "For international orders, your package may be subject to customs duties, import taxes, and brokerage fees. These are not included in our prices and are your responsibility as the buyer. We recommend checking your country's duty rates before ordering.", 
+
+  "phone order": "Prefer to order by phone? No problem. Call our customer support line at 1-800-555-1234, and a representative will help you place an order. You'll receive a confirmation email afterwards. Phone orders follow the same policies as online orders.", 
+
+  "guest checkout": "You don't need an account to buy from us. Guest checkout collects only your name, address, email, and phone number used solely for order processing and delivery updates. We do not use guest data for marketing unless you opt in. Guest data is deleted after 12 months.", 
+
+  "pause subscription": "Need a break from your subscription? Log in, go to 'Subscriptions', select the active subscription, and click 'Pause'. You can choose a pause duration (1 to 6 months). No charges will occur during that time. Deliveries automatically resume after the pause ends.", 
+
+  "cod rejected": "Your Cash on Delivery order might be rejected for a few reasons: order value above $200, your address is outside our COD service area, you have a history of refusing COD deliveries, or the product is high risk. Try using a prepaid method or contact support for help.", 
+
+  "partial refund": "In some cases, like a minor scratch on a hidden area, we may offer a partial refund without requiring you to return the item. The amount (typically 15 to 50% of the price) depends on the issue. Contact support with photos we'll decide case by case.", 
+
+  "free shipping": "Free standard shipping applies when your cart total (after discounts, before taxes) meets or exceeds our minimum threshold usually $50. The checkout page will show 'Free Shipping' as an option. If you remove items and drop below, shipping charges will reappear.", 
+
+  "return pickup": "Once you request a return, we'll schedule a free pickup from your address. You can see the scheduled date in 'Return Status'. The courier will come between 9 AM and 6 PM. Please keep the item packed and ready. If pickup fails, you can reschedule or self ship (reimbursed).", 
+
+  "gift card": "We offer both physical and digital gift cards, from $10 to $500. Digital cards are sent instantly by email. Gift cards never expire and can be reloaded online (minimum $10). They can be used like cash on our website. Check your balance anytime in the 'Gift Card' section.", 
+
+  "missing package": "If your package shows 'delivered' but you never got it, wait 24 hours sometimes couriers mark delivered early. Then check with neighbours, building management, or any secure drop spot. Still missing? File a 'Missing Package' report from the order details. We'll investigate with the courier and either reship or refund.", 
+
+  "no packaging return": "Returns without original packaging may still be accepted, but we may deduct a restocking fee (up to 25%). For defective items, we can waive that fee. Please contact support before sending back an item without its box we'll give you the best option.", 
+
+  "chargeback": "A chargeback is when your bank reverses a charge, usually due to fraud or a dispute. This is different from a refund (which we initiate). If you file a chargeback, we cannot process a refund. Please contact us first chargebacks take longer and may lead to account suspension.", 
+
+  "2fa": "To add an extra layer of security to your account, enable two factor authentication (2FA). Go to 'Account Settings' > 'Security' > 'Two Factor Authentication'. Choose SMS or an authenticator app (like Google Authenticator). You'll then need a code from your phone each time you log in.", 
+
+  "request product": "Don't see a product you want? Use our 'Request a Product' feature (found in the footer or your account). Tell us the name, brand, and any link. If we can source it, we'll notify you. Not all requests are fulfilled, especially for very niche items.", 
+
+  "free return": "Returns are free when the issue is our fault (damaged, wrong item, defective). For change of mind returns, shipping is free if your order total was above $30. Below that, a $5 return shipping fee will be deducted from your refund. Exchanges are always free.", 
+
+  "guest order": "If you checked out as a guest and need to look up your order, use the 'Guest Order Lookup' link on our website. You'll need your order number and the email address you used. Without those, we cannot find the order so please save your confirmation email.", 
+
+  "support fallback": "Didn't find the answer you need here? No worries our support team is ready to help. Start a live chat on our website or app (available 24/7), or send an email to support@ecomsupport.com. Our AI agent will try to assist, but you can always ask to speak with a real human." 
+
+} 
